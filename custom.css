@@ -1,0 +1,19 @@
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.page-container{
+    max-width: 500px;
+}
+.page-footer{
+    color: #FFF;
+}
+.page-navitem a{
+    color: #999999;
+    padding-bottom: 10px;
+}
+.page-navitem:hover a{
+    color: #FFF;
+    border-bottom: 3px solid  #FFF;
+}
